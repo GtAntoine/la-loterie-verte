@@ -1,5 +1,7 @@
 # Chapitre 5 : La Cérémonie
 
+![Chapitre 5](../Illustrations/Chapitre%205.png)
+
 Trois jours après sa confrontation avec Torres, Élias reçut une notification sur son terminal.
 
 **Cérémonie de Transfert Agricole – Niveau 80, Auditorium Central – 18h00 – Présence facultative pour personnel de sécurité.**

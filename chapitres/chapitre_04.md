@@ -1,5 +1,7 @@
 # Chapitre 4 : La Surveillance
 
+![Chapitre 4](../Illustrations/Chapitre%204.png)
+
 Le lendemain matin, Élias sut qu'il était grillé.
 
 Ce n'était rien de visible. Pas de menace directe, pas d'avertissement formel. Juste une série de détails qui, mis bout à bout, formaient une évidence.

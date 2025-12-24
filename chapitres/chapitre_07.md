@@ -1,5 +1,7 @@
 # Chapitre 7 : Le Complexe
 
+![Chapitre 7](../Illustrations/Chapitre%207.png)
+
 Le bureau de Morgenstern était une pièce austère. Murs blancs, bureau métallique, écrans muraux affichant des graphiques de production. Pas de fenêtres. Pas de photos. Rien d'humain.
 
 Les gardes poussèrent Élias sur une chaise et se postèrent de chaque côté de la porte. Morgenstern s'installa derrière son bureau et croisa les mains.

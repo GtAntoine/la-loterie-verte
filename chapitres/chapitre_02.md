@@ -1,5 +1,7 @@
 # Chapitre 2 : L'Enquête Commence
 
+![Chapitre 2](../Illustrations/Chapitre%202.png)
+
 Élias avait décidé de commencer par les vivants. Les morts – ou les disparus – ne parlaient pas. Mais ceux qu'ils laissaient derrière, eux, avaient des histoires à raconter.
 
 Il quitta le bureau à dix heures, un prétexte bureaucratique griffonné sur un formulaire de sortie. Personne ne vérifia. Personne ne vérifiait jamais. Dans un système aussi vaste, l'invisibilité était une forme de liberté.
