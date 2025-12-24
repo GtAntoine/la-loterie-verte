@@ -1,6 +1,8 @@
 # Chapitre 3 : Les Données
 
-![Chapitre 3](../Illustrations/Chapitre%203.png)
+<p align="center">
+  <img src="../Illustrations/Chapitre 3.png" width="50%">
+</p>
 
 Élias attendit la nuit. Pas une vraie nuit – ça n'existait pas dans les Murs – mais cette période où les néons s'assombrissaient légèrement, simulant un crépuscule qui n'avait jamais lieu. Vingt-deux heures. L'heure où la plupart respiraient leur quota et s'endormaient devant les écrans.
 

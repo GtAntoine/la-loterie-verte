@@ -1,6 +1,8 @@
 # Chapitre 1 : L'Appel
 
-![Chapitre 1](../Illustrations/Chapitre%201.png)
+<p align="center">
+  <img src="../Illustrations/Chapitre 1.png" width="50%">
+</p>
 
 Le réveil vibra à six heures précises, comme chaque matin depuis dix ans. Élias Koren ouvrit les yeux sur le plafond gris de son carré de vie, à peine visible dans la pénombre artificielle. Trois mètres au-dessus de lui, les conduits de ventilation ronronnaient leur complainte monotone, brassant l'air mort qui constituait son unique atmosphère. Il resta immobile quelques secondes, cherchant dans ce rectangle étroit un espace qui n'existait pas.
 

@@ -1,6 +1,8 @@
 # Chapitre 6 : Le Suiveur
 
-![Chapitre 6](../Illustrations/Chapitre%206.png)
+<p align="center">
+  <img src="../Illustrations/Chapitre 6.png" width="50%">
+</p>
 
 Le conduit de maintenance était un cauchemar métallique. Cinquante centimètres de large, chauffé par les systèmes électriques qui couraient le long des parois. Élias rampait dans l'obscurité quasi totale, éclairé seulement par la lueur de son terminal en mode minimal. Le convoi vibrait à quelques mètres sur sa gauche, grondement sourd et régulier.
 

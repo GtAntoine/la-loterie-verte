@@ -1,6 +1,8 @@
 # Chapitre 5 : La Cérémonie
 
-![Chapitre 5](../Illustrations/Chapitre%205.png)
+<p align="center">
+  <img src="../Illustrations/Chapitre 5.png" width="50%">
+</p>
 
 Trois jours après sa confrontation avec Torres, Élias reçut une notification sur son terminal.
 

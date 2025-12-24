@@ -1,6 +1,8 @@
 # La Loterie Verte
 
-![Couverture - La Loterie Verte](Illustrations/Couverture%20-%20La%20Loterie%20Verte.png)
+<p align="center">
+  <img src="Illustrations/Couverture - La Loterie Verte.png" width="50%">
+</p>
 
 **Genre :** Science-fiction dystopique
 **Format :** Roman court (~100 pages, ~20 000 mots)

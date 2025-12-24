@@ -1,6 +1,8 @@
 # Chapitre 2 : L'Enquête Commence
 
-![Chapitre 2](../Illustrations/Chapitre%202.png)
+<p align="center">
+  <img src="../Illustrations/Chapitre 2.png" width="50%">
+</p>
 
 Élias avait décidé de commencer par les vivants. Les morts – ou les disparus – ne parlaient pas. Mais ceux qu'ils laissaient derrière, eux, avaient des histoires à raconter.
 

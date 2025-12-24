@@ -1,6 +1,8 @@
 # Chapitre 7 : Le Complexe
 
-![Chapitre 7](../Illustrations/Chapitre%207.png)
+<p align="center">
+  <img src="../Illustrations/Chapitre 7.png" width="50%">
+</p>
 
 Le bureau de Morgenstern était une pièce austère. Murs blancs, bureau métallique, écrans muraux affichant des graphiques de production. Pas de fenêtres. Pas de photos. Rien d'humain.
 
